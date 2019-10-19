@@ -1,0 +1,13 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+
+
+body{
+background-image: url(/assets/images/ital-soccer-girls.jpg.jpg);
+background-size:100%;
+}
